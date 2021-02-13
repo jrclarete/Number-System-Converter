@@ -1,0 +1,16 @@
+D:\Development\Number-System-Converter\bin\Debug\net5.0\Number-System-Converter.exe
+D:\Development\Number-System-Converter\bin\Debug\net5.0\Number-System-Converter.deps.json
+D:\Development\Number-System-Converter\bin\Debug\net5.0\Number-System-Converter.runtimeconfig.json
+D:\Development\Number-System-Converter\bin\Debug\net5.0\Number-System-Converter.runtimeconfig.dev.json
+D:\Development\Number-System-Converter\bin\Debug\net5.0\Number-System-Converter.dll
+D:\Development\Number-System-Converter\bin\Debug\net5.0\ref\Number-System-Converter.dll
+D:\Development\Number-System-Converter\bin\Debug\net5.0\Number-System-Converter.pdb
+D:\Development\Number-System-Converter\obj\Debug\net5.0\Number-System-Converter.csprojAssemblyReference.cache
+D:\Development\Number-System-Converter\obj\Debug\net5.0\Number-System-Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Number-System-Converter\obj\Debug\net5.0\Number-System-Converter.AssemblyInfoInputs.cache
+D:\Development\Number-System-Converter\obj\Debug\net5.0\Number-System-Converter.AssemblyInfo.cs
+D:\Development\Number-System-Converter\obj\Debug\net5.0\Number-System-Converter.csproj.CoreCompileInputs.cache
+D:\Development\Number-System-Converter\obj\Debug\net5.0\Number-System-Converter.dll
+D:\Development\Number-System-Converter\obj\Debug\net5.0\ref\Number-System-Converter.dll
+D:\Development\Number-System-Converter\obj\Debug\net5.0\Number-System-Converter.pdb
+D:\Development\Number-System-Converter\obj\Debug\net5.0\Number-System-Converter.genruntimeconfig.cache

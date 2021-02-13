@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Development\\Number-System-Converter\\Number-System-Converter.csproj": {}
+  },
+  "projects": {
+    "D:\\Development\\Number-System-Converter\\Number-System-Converter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Number-System-Converter\\Number-System-Converter.csproj",
+        "projectName": "Number-System-Converter",
+        "projectPath": "D:\\Development\\Number-System-Converter\\Number-System-Converter.csproj",
+        "packagesPath": "C:\\Users\\MEL\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Number-System-Converter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MEL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
